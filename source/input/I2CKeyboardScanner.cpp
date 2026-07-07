@@ -47,11 +47,13 @@ I2CKeyboardInputDriver *I2CKeyboardScanner::scan(void)
                               SCAN_MPR121_KB_ADDR};
     ILOG_DEBUG("I2CKeyboardScanner scanning...");
 
+#ifdef SCAN_I2C_BUS_RESET
     // Reset I2C bus to clear any stuck state left by touch driver LovyanGFX operations
     Wire.end();
     delay(10);
     Wire.begin(I2C_SDA, I2C_SCL, 100000);
     delay(10);
+#endif
 
     for (uint8_t pass = 0; pass < kScanPasses && I2CKeyboardInputDriver::getI2CKeyboardList().empty(); ++pass) {
         for (uint8_t i = 0; i < sizeof(i2cKeyboards); i++) {
