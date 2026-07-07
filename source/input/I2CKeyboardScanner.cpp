@@ -116,6 +116,9 @@ I2CKeyboardInputDriver *I2CKeyboardScanner::scan(void)
                 break;
             }
         }
+        if (driver != nullptr) {
+            break;
+        }
     }
 #endif
 
