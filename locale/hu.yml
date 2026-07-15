@@ -1,7 +1,7 @@
 hu:
   Reboot into BaseUI?: Újraindítás BaseUI módba?
   no new messages: nincs új üzenet
-  1 of 1 nodes online: 1 / 1 node online
+  1 of 1 nodes online: 1 / 1 online node
   uptime 00:00:00: üzemidő 00:00:00
   LoRa 0.0 MHz: LoRa 0.0 MHz
   no signal: nincs jel
@@ -52,7 +52,7 @@ hu:
   <unset>: <nincs beállítva>
   Secondary Channels: Másodlagos csatornák
   "LONG FAST\nLONG MODERATE\nLONG TURBO\nMEDIUM FAST\nMEDIUM SLOW\nSHORT FAST\nSHORT TURBO\nSHORT SLOW": "HOSSZÚ GYORS\nHOSSZÚ KÖZEPES\nHOSSZÚ TURBÓ\nKÖZEPES GYORS\nKÖZEPES LASSÚ\nRÖVID GYORS\nRÖVID TURBÓ\nRÖVID LASSÚ"
-  "Client\nClient Mute\nRouter\nRepeater\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker\nRouter Late": "Kliens\nNémított kliens\nRouter\nIsmétlő\nTracker\nÉrzékelő\nTAK\nRejtett kliens\nElveszett és megtalált\nTAK Tracker\nKésleltetett Router"
+  "Client\nClient Mute\nRouter\nRepeater\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker\nRouter Late": "Kliens\nNémított kliens\nRouter\nIsmétlő\nKövető\nÉrzékelő\nTAK\nRejtett kliens\nElveszett és megtalált\nTAK követő\nKésleltetett Router"
   WiFi SSID: WiFi SSID
   WiFi pre-shared Key: WiFi előre megosztott kulcs
   'Brightness: 60%': 'Fényerő: 60%'
@@ -71,7 +71,7 @@ hu:
   City: Város
   Backup: Mentés
   Restore: Visszaállítás
-  Public/Private Key: Nyilvános/titkos kulcs
+  Public/Private Key: Publikus/Privát kulcs
   "NodeDB Reset\nFactory Reset\nClear Chat History": "NodeDB törlés\nGyári visszaállítás\nCsevegési előzmények törlése"
   Channel Name: Csatorna neve
   Pre-shared Key: Előre megosztott kulcs
