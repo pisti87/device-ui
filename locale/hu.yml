@@ -154,9 +154,9 @@ hu:
   "New message from \n%s": "Új üzenet innen:\n%s"
   'Input Control: %s/%s': 'Bemeneti vezérlés: %s/%s'
   '%d of %d nodes online':
-    one: '%d / %d csomópont online'
-    other: '%d / %d csomópont online'
-  'Filter: %d of %d nodes': 'Szűrő: %d / %d csomópont'
+    one: '%d / %d node online'
+    other: '%d / %d node online'
+  'Filter: %d of %d nodes': 'Szűrő: %d / %d node-ok'
   '%d new message': '%d új üzenet'
   '%d new messages': '%d új üzenet'
   'uptime: %02d:%02d:%02d': 'üzemidő: %02d:%02d:%02d'
