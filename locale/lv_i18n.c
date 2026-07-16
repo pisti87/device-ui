@@ -1529,7 +1529,7 @@ static const lv_i18n_phrase_t hu_plurals_one[] = {
 };
 
 static const lv_i18n_phrase_t hu_plurals_other[] = {
-    {"%d active chat(s)", "%d aktív csevegés"}, {"%d of %d nodes online", "%d / %d nodes online"}, {NULL, NULL} // End mark
+    {"%d active chat(s)", "%d aktív csevegés"}, {"%d of %d nodes online", "%d / %d node online"}, {NULL, NULL} // End mark
 };
 
 static uint8_t hu_plural_fn(int32_t num)
