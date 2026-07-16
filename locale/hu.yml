@@ -1,7 +1,7 @@
 hu:
   Reboot into BaseUI?: Újraindítás BaseUI módba?
   no new messages: nincs új üzenet
-  1 of 1 nodes online: 1 / 1 online node
+  1 of 1 nodes online: ~
   uptime 00:00:00: üzemidő 00:00:00
   LoRa 0.0 MHz: LoRa 0.0 MHz
   no signal: nincs jel
@@ -13,7 +13,7 @@ hu:
   map tiles not found!: térképcsempék nem találhatók!
   Settings: Beáll.
   'User name: ': 'Felhasználónév: '
-  'Modem Preset: LONG FAST': 'Modem profil: LONG FAST'
+  'Modem Preset: LONG FAST': 'Modem Preset: LONG FAST'
   'Channel: LongFast': 'Csatorna: LongFast'
   'Role: Client': 'Szerep: Kliens'
   'WiFi: <not setup>': 'WiFi: <nincs beállítva>'
@@ -128,7 +128,7 @@ hu:
   'Region: %s': 'Régió: %s'
   'User name: %s': 'Felhasználónév: %s'
   'Device Role: %s': 'Eszköz szerepe: %s'
-  'Modem Preset: %s': 'Modem profil: %s'
+  'Modem Preset: %s': 'Modem preset: %s'
   'WiFi: %s': 'WiFi: %s'
   <not set>: <nincs beállítva>
   Util %0.1f%%  Air %0.1f%%: Használat %0.1f%%  Levegő %0.1f%%
@@ -137,7 +137,7 @@ hu:
   Connected!: Csatlakoztatva!
   Disconnected!: Leválasztva!
   Shutting down ...: Kikapcsolás...
-  'Modem Preset: custom': 'Modem profil: egyéni'
+  'Modem Preset: custom': 'Modem preset: egyéni'
   region unset: régió nincs beállítva
   Banner & Sound: Értesítés és hang
   Banner only: Csak értesítés
@@ -167,3 +167,4 @@ hu:
   SD card error: SD-kártya hiba
   SD unknown error: Ismeretlen SD-hiba
   "Heap: %d (%d%%)\nLVGL: %d (%d%%)": "Heap: %d (%d%%)\nLVGL: %d (%d%%)"
+
