@@ -1,7 +1,7 @@
 hu:
   Reboot into BaseUI?: Újraindítás BaseUI módba?
   no new messages: nincs új üzenet
-  1 of 1 nodes online: 1 / 1 online nodes
+  1 of 1 nodes online: 1 / 1 online node
   uptime 00:00:00: üzemidő 00:00:00
   LoRa 0.0 MHz: LoRa 0.0 MHz
   no signal: nincs jel
@@ -13,7 +13,7 @@ hu:
   map tiles not found!: térképcsempék nem találhatók!
   Settings: Beáll.
   'User name: ': 'Felhasználónév: '
-  'Modem Preset: LONG FAST': 'Modem Preset: LONG FAST'
+  'Modem Preset: LONG FAST': 'Modem profil: LONG FAST'
   'Channel: LongFast': 'Csatorna: LongFast'
   'Role: Client': 'Szerep: Kliens'
   'WiFi: <not setup>': 'WiFi: <nincs beállítva>'
