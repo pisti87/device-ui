@@ -3,17 +3,17 @@ hu:
   no new messages: nincs új üzenet
   1 of 1 nodes online: ~
   uptime 00:00:00: üzemidő 00:00:00
-  LoRa 0.0 MHz: LoRa 0.0 MHz
+  LoRa 0.0 MHz: ~
   no signal: nincs jel
   silent: néma
   no SD card detected: nincs SD-kártya érzékelve
-  "Heap: 0\nLVGL: 0": "Heap: 0\nLVGL: 0"
+  "Heap: 0\nLVGL: 0": ~
   no public key: nincs nyilvános kulcs
   DEL: TÖRLÉS
   map tiles not found!: térképcsempék nem találhatók!
   Settings: Beáll.
   'User name: ': 'Felhasználónév: '
-  'Modem Preset: LONG FAST': 'Modem Preset: LONG FAST'
+  'Modem Preset: LONG FAST': ~
   'Channel: LongFast': 'Csatorna: LongFast'
   'Role: Client': 'Szerep: Kliens'
   'WiFi: <not setup>': 'WiFi: <nincs beállítva>'
@@ -77,11 +77,11 @@ hu:
   Pre-shared Key: Előre megosztott kulcs
   Filter: Szűrő
   Unknown: Ismeretlen
-  Offline: Offline
+  Offline: ~
   Public Key: Nyilvános kulcs
   Channel: Csatorna
   Hops away: Ugrások száma
-  MQTT: MQTT
+  MQTT: ~
   Position: Pozíció
   Name: Név
   Highlight: Kiemelés
@@ -96,7 +96,7 @@ hu:
   Please set region and name: Kérjük állítsa be a régiót és a nevet
   Region: Régió
   Resync ...: Újraszinkronizálás...
-  OK: OK
+  OK: ~
   Cancel: Mégse
   now: most
   'Lock: %s/%s': 'Zár: %s/%s'
@@ -128,8 +128,8 @@ hu:
   'Region: %s': 'Régió: %s'
   'User name: %s': 'Felhasználónév: %s'
   'Device Role: %s': 'Eszköz szerepe: %s'
-  'Modem Preset: %s': 'Modem preset: %s'
-  'WiFi: %s': 'WiFi: %s'
+  'Modem Preset: %s': ~
+  'WiFi: %s': ~
   <not set>: <nincs beállítva>
   Util %0.1f%%  Air %0.1f%%: Használat %0.1f%%  Levegő %0.1f%%
   'hops: %d': 'ugrások: %d'
@@ -155,15 +155,15 @@ hu:
   'Input Control: %s/%s': 'Bemeneti vezérlés: %s/%s'
   '%d of %d nodes online':
     one: '%d / %d node online'
-    other: '%d / %d node online'
+    other: '%d / %d nodes online'
   'Filter: %d of %d nodes': 'Szűrő: %d / %d node-ok'
   '%d new message': '%d új üzenet'
   '%d new messages': '%d új üzenet'
   'uptime: %02d:%02d:%02d': 'üzemidő: %02d:%02d:%02d'
-  "%s: %d GB (%s)\nUsed: %0.2f GB (%d%%)": "%s: %d GB (%s)\nHasználva: %0.2f GB (%d%%)"
+  "%s: %d GB (%s)\nUsed: %0.2f GB (%d%%)": ~
   SD slot empty: SD-foglalat üres
   SD invalid format: Érvénytelen SD-formátum
   SD mbr not found: SD MBR nem található
   SD card error: SD-kártya hiba
   SD unknown error: Ismeretlen SD-hiba
-  "Heap: %d (%d%%)\nLVGL: %d (%d%%)": "Heap: %d (%d%%)\nLVGL: %d (%d%%)"
+  "Heap: %d (%d%%)\nLVGL: %d (%d%%)": ~
