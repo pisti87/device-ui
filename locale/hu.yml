@@ -32,7 +32,7 @@ hu:
   Mesh Detector: Mesh érzékelő
   Signal Scanner: Jelkereső
   Trace Route: Útvonal követés
-  Neighbors: Szomszédok
+  Neighbors: ~
   Statistics: Statisztika
   Packet Log: Csomagnapló
   Meshtastic: Meshtastic
@@ -46,14 +46,13 @@ hu:
   Packet Statistics: Csomag stat.
   Node Options: Node beállítások
   LoRa TX off!: LoRa adás kikapcsolva!
-  Short Name: Rövid név
-  Long Name: Hosszú név
+  Short Name: ~
+  Long Name: ~
   Primary Channel: Elsődleges csatorna
   <unset>: <nincs beállítva>
   Secondary Channels: Másodlagos csatornák
-  "LONG FAST\nLONG MODERATE\nLONG TURBO\nMEDIUM FAST\nMEDIUM SLOW\nSHORT FAST\nSHORT TURBO\nSHORT SLOW": "HOSSZÚ GYORS\nHOSSZÚ KÖZEPES\nHOSSZÚ TURBÓ\nKÖZEPES GYORS\nKÖZEPES LASSÚ\nRÖVID GYORS\nRÖVID TURBÓ\nRÖVID LASSÚ"
-  "Client\nClient Mute\nRouter\nRepeater\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker\nRouter Late": "Kliens\nNémított kliens\nRouter\nIsmétlő\nKövető\nÉrzékelő\nTAK\nRejtett kliens\nElveszett és megtalált\nTAK követő\nKésleltetett Router"
-  WiFi SSID: WiFi SSID
+  "LONG FAST\nLONG MODERATE\nLONG TURBO\nMEDIUM FAST\nMEDIUM SLOW\nSHORT FAST\nSHORT TURBO\nSHORT SLOW": ~
+  "Client\nClient Mute\nRouter\nRepeater\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker\nRouter Late": ~
   WiFi pre-shared Key: WiFi előre megosztott kulcs
   'Brightness: 60%': 'Fényerő: 60%'
   "Dark\nLight": "Sötét\nVilágos"
@@ -80,14 +79,14 @@ hu:
   Offline: ~
   Public Key: Nyilvános kulcs
   Channel: Csatorna
-  Hops away: Ugrások száma
+  Hops away: Hop-pok száma
   MQTT: ~
   Position: Pozíció
   Name: Név
   Highlight: Kiemelés
   Active Chat: Aktív csevegés
   Telemetry: Telemetria
-  IAQ: Beltéri levegőminőség
+  IAQ: ~
   Start: Indítás
   "choose\nnode": "válasszon\nnode-ot"
   choose target node: válasszon cél node-ot
@@ -105,7 +104,7 @@ hu:
   'Screen Calibration: %s': 'Képernyő kalibrálás: %s'
   done: kész
   default: alapértelmezett
-  "Client\nClient Mute\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker": "Kliens\nNémított kliens\nKövető\nÉrzékelő\nTAK\nRejtett kliens\nElveszett és megtalált\nTAK követő"
+  "Client\nClient Mute\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker": ~
   Rebooting ...: Újraindítás...
   '>> Programming mode <<': '>> Programozási mód <<'
   Enter Text ...: Szöveg bevitele...
@@ -117,7 +116,7 @@ hu:
   'Timeout: %ds': 'Időtúllépés: %d mp'
   No map tiles found on SDCard!: Nem találhatók térképcsempék az SD-kártyán!
   Locations Map (%d/%d): Helyek térképe (%d/%d)
-  Stop: Leállítás
+  Stop: Megállítás
   'heard: !%08x': 'észlelve: !%08x'
   'Packet Log: %d': 'Csomagnapló: %d'
   'Language: %s': 'Nyelv: %s'
@@ -132,7 +131,7 @@ hu:
   'WiFi: %s': ~
   <not set>: <nincs beállítva>
   Util %0.1f%%  Air %0.1f%%: Használat %0.1f%%  Levegő %0.1f%%
-  'hops: %d': 'ugrások: %d'
+  'hops: %d': 'hops: %d'
   unknown: ismeretlen
   Connected!: Csatlakoztatva!
   Disconnected!: Leválasztva!
