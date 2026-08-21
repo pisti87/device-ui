@@ -77,6 +77,7 @@ Graphics using <a href="https://lvgl.io/" target="_blank">LVGL</a> library
       - [x] French translation
       - [x] German translation
       - [x] Greek translation
+      - [x] Hungary translation
       - [x] Italian translation
       - [x] Netherlands translation
       - [x] Norwegian translation
